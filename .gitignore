@@ -1,0 +1,16 @@
+predictions.pkl
+
+# Due to copyright
+scoring.py
+
+data
+
+
+# The orginal architecture is unfortunately lost. We show the trained model.
+*.patch
+architectures.py
+
+*.log
+
+
+__pycache__
